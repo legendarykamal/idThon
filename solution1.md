@@ -10,3 +10,4 @@ Alternatively, you can create a 30-second video highlighting the potential of Po
 
 ## 📝 Solution:
 
+A video that goes into deep dive into Polygon ID and its potential usecase in the Real World - https://youtu.be/yvbr1_EhGsY
